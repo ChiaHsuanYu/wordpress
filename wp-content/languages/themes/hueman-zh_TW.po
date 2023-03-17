@@ -1,0 +1,21 @@
+# Translation of Themes - Hueman in Chinese (Taiwan)
+# This file is distributed under the same license as the Themes - Hueman package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-03-18 00:32:24+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: zh_TW\n"
+"Project-Id-Version: Themes - Hueman\n"
+
+#: option-tree/includes/ot-functions-admin.php:2830
+msgid "Type"
+msgstr "安裝類型"
+
+#: option-tree/includes/ot-functions-admin.php:3098
+#: option-tree/includes/ot-functions-admin.php:3099
+msgid "Activate"
+msgstr "啟用"

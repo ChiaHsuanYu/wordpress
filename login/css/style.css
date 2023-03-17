@@ -1,0 +1,79 @@
+
+/*--------- login css ---------*/
+
+.loginBody {
+    background: -moz-radial-gradient(circle, #7ea5c5, #001B2E);
+    background: -webkit-radial-gradient(circle, #7ea5c5, #001B2E);
+    background: -o-radial-gradient(circle, #7ea5c5, #001B2E);
+    background: radial-gradient(circle, #bec5ca, #01538d);
+    width: 99%;
+    height: 100%;
+}
+
+.loginBg {
+    width: 100%;
+    min-height: 1200px;
+}
+
+.loginTitle {
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.4rem;
+    padding: 100px 0px 50px 0px;
+    color: #fff;
+}
+
+.loginBox {
+    width: 250px;
+    margin: 0px auto;
+    background: #FFFFFF;
+    box-shadow: 0px 1px 10px 0px rgb(83, 83, 83);
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    text-align: center;
+    padding: 20px;
+}
+
+.loginBox label {
+    padding: 0px 10px;
+}
+
+.loginBox input {
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    padding: 0px;
+    margin: 5px;
+    width: 150px;
+    height: 25px;
+}
+
+.alertMsg {
+    color: #F00;
+    font-size: 0.9rem;
+    padding: 5px;
+}
+
+/* Button */
+
+.button {
+    width: 100%;
+    /* width: auto; */
+    background-image: -webkit-linear-gradient(top, #2B9FD4, #0F2F3E);
+    background-image: -moz-linear-gradient(top, #2B9FD4, #0F2F3E);
+    background-image: -o-linear-gradient(top, #2B9FD4, #0F2F3E);
+    background-image: linear-gradient(to bottom, #2B9FD4, #0F2F3E);
+    color: #fff;
+    text-decoration: none;
+    border: 0px none;
+    height: auto;
+    margin: 2px;
+}
+
+.button:hover {
+    background-image: -webkit-linear-gradient(top, #44b5e9, #0F2F3E);
+    background-image: -moz-linear-gradient(top, #44b5e9, #0F2F3E);
+    background-image: -o-linear-gradient(top, #44b5e9, #0F2F3E);
+    background-image: linear-gradient(to bottom, #44b5e9, #0F2F3E);
+}

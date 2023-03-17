@@ -1,0 +1,499 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Padma Blog\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-04-01 13:01+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.1; wp-5.9.2\n"
+"X-Domain: padma-blog"
+
+#. 1: Theme name, 2: Theme author.
+#: inc/footer/footer-2.php:22
+#, php-format
+msgid " %1$s by %2$s."
+msgstr ""
+
+#: inc/customizer.php:101
+msgid "1"
+msgstr ""
+
+#: inc/customizer.php:130 inc/customizer.php:178
+msgid "100"
+msgstr ""
+
+#: inc/customizer.php:69
+msgid "15"
+msgstr ""
+
+#: inc/customizer.php:424
+msgid "2"
+msgstr ""
+
+#: inc/customizer.php:149
+msgid "20"
+msgstr ""
+
+#: inc/customizer.php:85
+msgid "26"
+msgstr ""
+
+#: inc/customizer.php:131 inc/customizer.php:179
+msgid "300"
+msgstr ""
+
+#: inc/customizer.php:132 inc/customizer.php:180
+msgid "400"
+msgstr ""
+
+#: inc/customizer.php:133 inc/customizer.php:181
+msgid "500"
+msgstr ""
+
+#: inc/customizer.php:134 inc/customizer.php:182
+msgid "700"
+msgstr ""
+
+#: inc/customizer.php:135 inc/customizer.php:183
+msgid "900"
+msgstr ""
+
+#. Author of the theme
+msgid "ashathemes"
+msgstr ""
+
+#: inc/customizer.php:686
+msgid "Blogpage Container Width"
+msgstr ""
+
+#: inc/customizer.php:247
+msgid "Blogpage Settings"
+msgstr ""
+
+#: inc/customizer.php:447
+msgid "Blogpost border style"
+msgstr ""
+
+#: inc/customizer.php:431
+msgid "Blogpost border width"
+msgstr ""
+
+#: inc/customizer.php:416
+msgid "Blogpost Style Settings"
+msgstr ""
+
+#: inc/customizer.php:76
+msgid "Body font size"
+msgstr ""
+
+#: inc/customizer.php:61
+msgid "Body Fonts Settings"
+msgstr ""
+
+#: inc/customizer.php:108
+msgid "Body letter spacing"
+msgstr ""
+
+#: inc/customizer.php:92
+msgid "Body line height"
+msgstr ""
+
+#: inc/customizer.php:472
+msgid "Border Bottom Color"
+msgstr ""
+
+#: inc/customizer.php:212 inc/customizer.php:241
+msgid "Center Menu"
+msgstr ""
+
+#: inc/customizer.php:503 inc/customizer.php:693
+msgid "Container Box"
+msgstr ""
+
+#: inc/customizer.php:502 inc/customizer.php:692
+msgid "Container Full"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: template-parts/content-1.php:93 template-parts/content-2.php:87
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: inc/customizer.php:455
+msgid "Dashed"
+msgstr ""
+
+#: inc/customizer.php:303
+msgid "Display Featured Image?"
+msgstr ""
+
+#: inc/customizer.php:343 inc/customizer.php:557
+msgid "Display post by?"
+msgstr ""
+
+#: inc/customizer.php:383 inc/customizer.php:597
+msgid "Display post content?"
+msgstr ""
+
+#: inc/customizer.php:363 inc/customizer.php:577
+msgid "Display post date?"
+msgstr ""
+
+#: inc/customizer.php:403
+msgid "Display post read more button?"
+msgstr ""
+
+#: inc/customizer.php:323
+msgid "Display post title?"
+msgstr ""
+
+#: inc/customizer.php:537
+msgid "Display Single Featured Image?"
+msgstr ""
+
+#: inc/customizer.php:454
+msgid "Dotted"
+msgstr ""
+
+#: inc/customizer.php:456
+msgid "Double"
+msgstr ""
+
+#: inc/customizer.php:666
+msgid "Enable Breadcrumb?"
+msgstr ""
+
+#: inc/customizer.php:714
+msgid "Footer Background Color"
+msgstr ""
+
+#: inc/customizer.php:699
+msgid "Footer Settings"
+msgstr ""
+
+#: inc/customizer.php:290 inc/customizer.php:524
+msgid "Full Width"
+msgstr ""
+
+#: inc/customizer.php:652
+msgid "General Settings"
+msgstr ""
+
+#: inc/customizer.php:269
+msgid "Grid Blog"
+msgstr ""
+
+#: inc/customizer.php:457
+msgid "Groove"
+msgstr ""
+
+#: inc/customizer.php:141
+msgid "Heading Font Settings"
+msgstr ""
+
+#: inc/customizer.php:156
+msgid "Heading font size"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://ashathemes.com"
+msgstr ""
+
+#. URI of the theme
+msgid ""
+"https://ashathemes.com/index.php/product/padma-blog-personal-blog-wordpress-"
+"theme/"
+msgstr ""
+
+#: inc/footer/footer-2.php:13
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: inc/customizer.php:667
+msgid ""
+"If you don't want to show breadcrumb in your site. Please turn button no."
+msgstr ""
+
+#: inc/customizer.php:304
+msgid "If you don't want to show featured image. Please turn button no."
+msgstr ""
+
+#: inc/customizer.php:344 inc/customizer.php:558
+msgid "If you don't want to show post by. Please turn button no."
+msgstr ""
+
+#: inc/customizer.php:384 inc/customizer.php:598
+msgid "If you don't want to show post content. Please turn button no."
+msgstr ""
+
+#: inc/customizer.php:364 inc/customizer.php:578
+msgid "If you don't want to show post date. Please turn button no."
+msgstr ""
+
+#: inc/customizer.php:404
+msgid "If you don't want to show post read more button. Please turn button no."
+msgstr ""
+
+#: inc/customizer.php:324
+msgid "If you don't want to show post title. Please turn button no."
+msgstr ""
+
+#: inc/customizer.php:538
+msgid "If you don't want to show single featured image. Please turn button no."
+msgstr ""
+
+#: inc/customizer.php:210 inc/customizer.php:239
+msgid "Left Menu"
+msgstr ""
+
+#: inc/customizer.php:288 inc/customizer.php:522
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/customizer.php:268
+msgid "List Blog"
+msgstr ""
+
+#: inc/customizer.php:189
+msgid "Logo Position Settings"
+msgstr ""
+
+#: inc/customizer.php:218
+msgid "Menu Position Settings"
+msgstr ""
+
+#: inc/customizer.php:310 inc/customizer.php:330 inc/customizer.php:350
+#: inc/customizer.php:370 inc/customizer.php:390 inc/customizer.php:410
+#: inc/customizer.php:544 inc/customizer.php:564 inc/customizer.php:584
+#: inc/customizer.php:604 inc/customizer.php:673
+msgid "No"
+msgstr ""
+
+#. Name of the theme
+msgid "Padma Blog"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Padma Blog Theme is wordpress blog theme for personal use. Fully responsive "
+"design displays beautifully across desktop, mobile, and all devices. This "
+"Theme builds with the world's most popular responsive CSS framework "
+"Bootstrap 4.5, Elementor, HTML5, CSS3, jQuery and so many modern "
+"technologies. Easy installation allows you to start post blogs immediately "
+"after the activation.Looking for a Blog or Protfolio theme? Look no further! "
+"Browse the demos to see that it's the only theme you will ever need: https:"
+"//ashathemes.com/padma/"
+msgstr ""
+
+#: template-parts/content-1.php:106 template-parts/content-2.php:100
+msgid "Pages:"
+msgstr ""
+
+#: inc/customizer.php:687
+msgid ""
+"Please select your blogpage container width from here. Please turn button no."
+msgstr ""
+
+#: inc/customizer.php:497
+msgid ""
+"Please select your singlepage container width from here. Please turn button "
+"no."
+msgstr ""
+
+#. %s: CMS name, i.e. WordPress.
+#: inc/footer/footer-2.php:16
+#, php-format
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: template-parts/content-1.php:52 template-parts/content-2.php:46
+msgid "Read More"
+msgstr ""
+
+#: inc/customizer.php:458
+msgid "Ridge"
+msgstr ""
+
+#: inc/customizer.php:211 inc/customizer.php:240
+msgid "Right Menu"
+msgstr ""
+
+#: inc/customizer.php:289 inc/customizer.php:523
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/customizer.php:249
+msgid "Select blog settings from here."
+msgstr ""
+
+#: inc/customizer.php:282
+msgid "Select blog sidebar"
+msgstr ""
+
+#: inc/customizer.php:283
+msgid "Select blog sidebar from here."
+msgstr ""
+
+#: inc/customizer.php:262
+msgid "Select blog style"
+msgstr ""
+
+#: inc/customizer.php:263
+msgid "Select blog style from here."
+msgstr ""
+
+#: inc/customizer.php:418
+msgid "Select blogpost settings from here."
+msgstr ""
+
+#: inc/customizer.php:63
+msgid "Select body fonts settings from here."
+msgstr ""
+
+#: inc/customizer.php:473
+msgid "Select border bottom color from here."
+msgstr ""
+
+#: inc/customizer.php:124 inc/customizer.php:172
+msgid "Select font weight"
+msgstr ""
+
+#: inc/customizer.php:125 inc/customizer.php:173
+msgid "Select font weight from here."
+msgstr ""
+
+#: inc/customizer.php:715
+msgid "Select footer background color from here."
+msgstr ""
+
+#: inc/customizer.php:701
+msgid "Select footer settings from here."
+msgstr ""
+
+#: inc/customizer.php:654
+msgid "Select general settings from here."
+msgstr ""
+
+#: inc/customizer.php:143
+msgid "Select heading fonts settings from here."
+msgstr ""
+
+#: inc/customizer.php:204
+msgid "Select logo position layout"
+msgstr ""
+
+#: inc/customizer.php:205
+msgid "Select logo position layout from here."
+msgstr ""
+
+#: inc/customizer.php:191
+msgid "Select Logo settings from here."
+msgstr ""
+
+#: inc/customizer.php:233
+msgid "Select menu position layout"
+msgstr ""
+
+#: inc/customizer.php:234
+msgid "Select menu position layout from here."
+msgstr ""
+
+#: inc/customizer.php:220
+msgid "Select menu settings from here."
+msgstr ""
+
+#: inc/customizer.php:57
+msgid "Select padma blog theme typrography settings from here."
+msgstr ""
+
+#: inc/customizer.php:483
+msgid "Select single page settings from here."
+msgstr ""
+
+#: inc/customizer.php:516
+msgid "Select singlepage layout"
+msgstr ""
+
+#: inc/customizer.php:517
+msgid "Select singlepage layout from here."
+msgstr ""
+
+#: inc/customizer.php:612
+msgid "Select styling settings from here."
+msgstr ""
+
+#: inc/customizer.php:644
+msgid "Select text color from here."
+msgstr ""
+
+#: inc/customizer.php:627
+msgid "Select theme color from here."
+msgstr ""
+
+#: inc/customizer.php:496
+msgid "Singlepage Container Width"
+msgstr ""
+
+#: inc/customizer.php:481
+msgid "Singlepage Settings"
+msgstr ""
+
+#: inc/customizer.php:453
+msgid "Solid"
+msgstr ""
+
+#: inc/customizer.php:610
+msgid "Styling Settings"
+msgstr ""
+
+#: inc/customizer.php:643
+msgid "Text Color"
+msgstr ""
+
+#: inc/customizer.php:626
+msgid "Theme Color"
+msgstr ""
+
+#: inc/customizer.php:448
+msgid "Type your blogpost border style from here."
+msgstr ""
+
+#: inc/customizer.php:432
+msgid "Type your blogpost border width from here."
+msgstr ""
+
+#: inc/customizer.php:77
+msgid "Type your body font size from here."
+msgstr ""
+
+#: inc/customizer.php:109
+msgid "Type your body letter spacing from here."
+msgstr ""
+
+#: inc/customizer.php:93
+msgid "Type your body line height from here."
+msgstr ""
+
+#: inc/customizer.php:157
+msgid "Type your heading font size from here."
+msgstr ""
+
+#: inc/customizer.php:56
+msgid "Typography Settings"
+msgstr ""
+
+#: inc/customizer.php:309 inc/customizer.php:329 inc/customizer.php:349
+#: inc/customizer.php:369 inc/customizer.php:389 inc/customizer.php:409
+#: inc/customizer.php:543 inc/customizer.php:563 inc/customizer.php:583
+#: inc/customizer.php:603 inc/customizer.php:672
+msgid "Yes"
+msgstr ""

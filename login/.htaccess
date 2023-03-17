@@ -1,0 +1,7 @@
+# 開啟rewrite 功能
+Options +FollowSymlinks
+RewriteEngine on
+
+# 路由规则
+RewriteRule ^api/login/$   API/Api.php?view=login [nc,qsa]
+RewriteRule ^api/logout/$   API/Api.php?view=logout [nc,qsa]
